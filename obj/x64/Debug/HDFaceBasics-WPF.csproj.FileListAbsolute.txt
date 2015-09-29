@@ -1,0 +1,70 @@
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\obj\x64\Debug\App.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.lref
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.baml
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Managed\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.pdb
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.exe
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.pdb
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.pdb
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.dll
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.xml
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.g.cs
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\obj\x64\Debug\App.g.cs
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.lref
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.baml
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.dll
+D:\My Doc\SEMESTER 2\GRA SRD\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\obj\x64\Debug\App.g.cs
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.lref
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.baml
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\Sonify\Desktop\Kinect Study\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\App.g.cs
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.lref
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\MainWindow.baml
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\HDFaceBasics-WPF.pdb

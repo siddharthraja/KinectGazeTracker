@@ -1,0 +1,17 @@
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\bin\x64\Debug\GazeTrack.exe.config
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\bin\x64\Debug\GazeTrack.exe
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\bin\x64\Debug\GazeTrack.pdb
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\App.g.cs
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\GazeTrack_MarkupCompile.cache
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\GazeTrack_MarkupCompile.lref
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\MainWindow.baml
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\GazeTrack.g.resources
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\GazeTrack.csproj.GenerateResource.Cache
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\GazeTrack.exe
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\GazeTrack.pdb
+C:\Users\ASLR\Downloads\KinectHeadTrack-master\KinectHeadTrack-master\obj\x64\Debug\Microsoft.Samples.Kinect.GazeTrack.Properties.Resources.resources
